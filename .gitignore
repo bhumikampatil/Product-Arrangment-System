@@ -1,0 +1,34 @@
+# Maven target directory
+/target/
+
+# Maven build files
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# IDE-specific files (Eclipse, IntelliJ, etc.)
+.classpath
+.project
+.settings/
+
+# Compiled Java classes
+*.class
+
+# Maven generated files
+mvnw
+mvnw.cmd
+.mvn/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+
+# Dependency directories
+/lib/
